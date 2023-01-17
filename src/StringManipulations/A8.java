@@ -1,5 +1,7 @@
 package StringManipulations;
 
+import java.util.Scanner;
+
 public class A8 {
 
             /*
@@ -16,4 +18,16 @@ public class A8 {
             System.out.println("ortancaKarakter = " + ortancaKarakter);
         }
         */
+
+    public static void main(String[] args){
+
+        Scanner scan=new Scanner(System.in);
+        System.out.println("Please enter a statement");
+        String str=scan.next();
+        if(str.length()>=3 || (str.length()-1)/2 ==0){
+            char middleCharacter=str.charAt((str.length()-1)/2);
+            System.out.println("middleCharacter = " + middleCharacter);
+        }
+
+    }
 }
