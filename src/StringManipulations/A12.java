@@ -9,4 +9,9 @@ public class A12 {
       Kullanicidan iki sayi girmesini isteyiniz.
       Girilen iki sayi ve secilen isleme gore dogru sonucu ekrana yazdirınız.
     */
+
+    public static  void main(String [] args){
+
+
+    }
 }
