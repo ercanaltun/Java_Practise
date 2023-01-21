@@ -40,9 +40,7 @@ public class A12 {
 
         }
         
-        
-        
-        
+
     }
     
 }

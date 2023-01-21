@@ -17,8 +17,6 @@ public class A13 {
         terstenYazdir(str);
 
 
-
-
     }
 
     private static void terstenYazdir(String str) {
