@@ -13,15 +13,7 @@ public class C5 {
 	        Kareler toplamı=14
 
 	     */
-        Scanner scan=new Scanner(System.in);
-        System.out.println("Lutfen 1'den buyuk bir tamsayi giriniz");
-        int sayi= scan.nextInt();
-        int karelerToplami=0;
 
-        for (int i = 1; i <sayi ; i++) {
-             karelerToplami +=i*i;
-        }
-        System.out.println(karelerToplami);
 
 
 
