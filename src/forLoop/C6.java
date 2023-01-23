@@ -13,19 +13,6 @@ public class C6 {
 	 	                            * * * * *
 	 	                            * * * * *
 	 */
-        Scanner scan=new Scanner(System.in);
-        System.out.println("lutfen bir satır  degeri girin");
-        int satir=scan.nextInt();
-        System.out.println("lutfen bir sutun  degeri girin");
-        int sutun=scan.nextInt();
-        for (int i = 1; i <=satir ; i++) {
-            for (int j = 1; j <=sutun ; j++) {
-                System.out.print("* ");
-
-            } System.out.println("");
-
-
-        }
 
 
     }
